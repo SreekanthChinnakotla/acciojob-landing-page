@@ -407,7 +407,9 @@ color: rgba(103, 103, 103, 1);
 .response button{
   display: none;
 }
-
+.nsdlr-2 span{
+  color: rgb(211, 40, 21);
+}
 @media screen and (max-width:913px) {
   .hero{
     flex-direction: column;
