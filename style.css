@@ -220,8 +220,7 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.08em;
 text-align: center;
-background: linear-gradient(276.97deg, #992FED 0%, #2F80ED 100%);
--webkit-text-fill-color: transparent;
+
 
 
 }
@@ -301,8 +300,7 @@ color: rgba(47, 128, 237, 1);
   font-style: italic;
   font-weight: 400;
   text-align: center;
-  background: linear-gradient(276.97deg, #992FED 0%, #2F80ED 100%);
-  -webkit-text-fill-color: transparent;
+
 
 }
 .partners-2 {
